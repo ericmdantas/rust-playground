@@ -1,3 +1,3 @@
 fn main() {
-	println!("rust playground");
+	println!("rust playground!");
 }
