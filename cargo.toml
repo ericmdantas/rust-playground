@@ -1,0 +1,4 @@
+[package]
+name = "rust-playground"
+version = "0.0.1"
+author = ["ericdantas0@gmail.com"]
